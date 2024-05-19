@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/floqer/static/css/main.adbd2b3b.css",
+    "main.js": "/floqer/static/js/main.f044d9ee.js",
+    "static/js/453.de681ac1.chunk.js": "/floqer/static/js/453.de681ac1.chunk.js",
+    "index.html": "/floqer/index.html",
+    "main.adbd2b3b.css.map": "/floqer/static/css/main.adbd2b3b.css.map",
+    "main.f044d9ee.js.map": "/floqer/static/js/main.f044d9ee.js.map",
+    "453.de681ac1.chunk.js.map": "/floqer/static/js/453.de681ac1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adbd2b3b.css",
+    "static/js/main.f044d9ee.js"
+  ]
+}
